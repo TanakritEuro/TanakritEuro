@@ -1,6 +1,6 @@
 # Tanakrit (Euro) Roongtanapirom
 
-Third-year Computer Engineering student at Chulalongkorn University, Bangkok, looking for a software engineering internship in 2027.
+Third-year Computer Engineering student at Chulalongkorn University, Bangkok, looking for a software or computer engineering internship in 2027.
 
 **Website:** [tanakriteuro.github.io](https://tanakriteuro.github.io) · **LinkedIn:** [tanakrit-roongtanapirom](https://www.linkedin.com/in/tanakrit-roongtanapirom) · **Email:** tanakrit.ro@gmail.com
 
